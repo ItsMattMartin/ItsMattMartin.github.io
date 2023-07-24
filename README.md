@@ -26,6 +26,14 @@
 "y": 970
 },
 {
+"name": "Nauseda",
+"sources": [
+""
+],
+"x": 1352,
+"y": 973
+},
+{
 "name": "Sakotis",
 "sources": [
 "https://i.imgur.com/ikKmSF3.png"
